@@ -21,7 +21,7 @@ const Footer = () => {
         </div>
 
         <Link
-          href="/"
+          href="https://discord.gg/Wnjuq49WfM"
           target={"_blank"}
           className="underline underline-offset-2"
         >

@@ -43,7 +43,7 @@ const about = () => {
     <>
       <Head>
         <title>About - Blockheads</title>
-        <meta name="description" content="any description" />
+        <meta name="description" content="Blockheads is a software development and support company that specializes in various technologies from Blockchain to Web Development." />
       </Head>
       <TransitionEffect />
       <main className="flex w-full flex-col items-center justify-center dark:text-light">

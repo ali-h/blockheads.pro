@@ -134,7 +134,7 @@ const about = () => {
                     CTO
                   </p>
                   <p className="mt-2 text-base font-medium text-dark/75 dark:text-light/75">
-                    Ali H is our Lead Developer with a deep understanding of blockchain technology and its potential to revolutionize industries. As our Chief Technology Officer and lead developer, Ali H has a mastery over all major technologies like Node, Web & App Deveopment with speical experience in Back-end development. His innovative mindset and relentless pursuit of excellence have been instrumental in shaping our company’s direction and success.
+                  Ali H is our Lead Developer with a deep understanding of blockchain technology and its potential to revolutionize industries. As our Chief Technology Officer and lead developer, Ali H has experience in major technologies like Node, web and app development, with special experience in back-end development. His innovative mindset and relentless pursuit of excellence have been instrumental in shaping our company’s direction and success.
                   </p>
                 </div>
 
@@ -157,7 +157,7 @@ const about = () => {
                     CEO
                   </p>
                   <p className="mt-2 text-base font-medium text-dark/75 dark:text-light/75">
-                  With a strong background in both blockchain and software development, Coininstant is a driving force behind our technical operations. As our Chief Executive Officer and management head, he combines his development skills with strategic leadership, guiding the company towards its long-term goals. His commitment to quality and his knack for staying ahead of technological trends ensure that our solutions are always cutting-edge.
+                    With a strong background in both blockchain and software development, Coininstant is a driving force behind our technical operations. As our Chief Executive Officer and management head, he combines his development skills with strategic leadership, guiding the company towards its long-term goals. His commitment to quality and his knack for staying ahead of technological trends ensure that our solutions are always cutting-edge.
                   </p>
                 </div>
 
@@ -180,7 +180,7 @@ const about = () => {
                     COO
                   </p>
                   <p className="mt-2 text-base font-medium text-dark/75 dark:text-light/75">
-                  Known for his strategic thinking and technical prowess, TheGuruAsia brings a wealth of knowledge in web development and software engineering. His ability to navigate complex challenges and deliver robust solutions has earned him a reputation as a guru in the industry. As our Chief Operating Officer, he oversees management, financial, and logical aspects of our operations, ensuring that everything runs smoothly and efficiently.
+                    Known for his strategic thinking and technical prowess, TheGuruAsia brings a wealth of knowledge in web development and software engineering. His ability to navigate complex challenges and deliver robust solutions has earned him a reputation as a guru in the industry. As our Chief Operating Officer, he oversees management, financial, and logistical aspects of our operations, ensuring that everything runs smoothly and efficiently.
                   </p>
                 </div>
               </div>

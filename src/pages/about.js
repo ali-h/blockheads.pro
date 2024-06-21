@@ -195,6 +195,36 @@ const about = () => {
               </p>
           </div>
 
+          <div className="w-full mt-5 text-center" style={{marginTop: "5rem"}}>
+              <h1 className="mb-5 text-lg font-bold uppercase text-dark/75 dark:text-light/75">
+                Contact Us
+              </h1>
+              <p className="mt-2 text-base font-medium text-dark/75 dark:text-light/75">
+              If you have any questions or would like to learn more about our services, please feel free to contact us. We are always happy to help and look forward to hearing from you.
+              </p>
+
+              <div className="mt-5">
+                <div className="flex flex-col gap-3 mt-5">
+                  <div className="flex justify-center gap-2 ml-4">
+                    <a href="mailto:blockheads.professionals@gmail.com" className="flex items-center  px-4 py-2 text-base font-medium text-white bg-dark rounded-lg dark:bg-light dark:text-dark">
+                      Email Us
+                    </a>
+                    <a href="tel:+1 (385) 393-4434" className="flex items-center  px-4 py-2 text-base font-medium text-white bg-dark rounded-lg dark:bg-light dark:text-dark">
+                      Call Us
+                    </a>                    
+                  </div>
+                  <div className="flex flex-col items-center justify-center  ml-4">
+                    <a href="mailto:blockheads.professionals@gmail.com" className="flex items-center  px-4 py-2 text-base font-medium text-dark/75 dark:text-light/75">
+                      blockheads.professionals@gmail.com
+                    </a>
+                    <a href="tel:+1 (385) 393-4434" className="flex items-center  px-4 py-2 text-base font-medium text-dark/75 dark:text-light/75">
+                      +1 (385) 393-4434
+                    </a>
+                  </div>
+                </div>
+              </div>
+          </div>
+
           <Skills />
           <Projects />
         </Layout>

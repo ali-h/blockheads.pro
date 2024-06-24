@@ -9,7 +9,7 @@ import Projects from "@/components/Projects";
 import TransitionEffect from "@/components/TransitionEffect";
 
 // image imports
-import AliH from "../../public/images/alih.jpeg";
+import AliH from "../../public/images/alih.jpg";
 import TheGuruAsia from "../../public/images/theguruasia.png";
 import Coininstant from "../../public/images/coininstant.png";
 import Blockheads from "../../public/images/main-logo.png";
@@ -116,7 +116,12 @@ const about = () => {
               </h1>
               <div className="grid mt-5 w-full grid-cols-3 gap-8 sm:gap-4 sm:grid-cols-1">
                 <div className="flex flex-col items-center justify-center">
-                  <div className="relative w-40 h-40 rounded-full overflow-hidden">
+                  <div className="relative w-40 h-40 rounded-full overflow-hidden" style={{
+                    borderTop: "5px solid #fff",
+                    borderRight: "3px solid #fff",
+                    borderLeft: "3px solid #fff",
+                    boxShadow: "0 0 10px 5px rgba(0, 0, 0, 0.6)",
+                  }}>
                     <Image
                       src={AliH}
                       alt="Ali H"
@@ -133,13 +138,19 @@ const about = () => {
                   <p className="mt-2 text-base font-medium text-dark/75 dark:text-light/75">
                     CTO
                   </p>
+                  
                   <p className="mt-2 text-base font-medium text-dark/75 dark:text-light/75">
-                  Ali H is our Lead Developer with a deep understanding of blockchain technology and its potential to revolutionize industries. As our Chief Technology Officer and lead developer, Ali H has experience in major technologies like Node, web and app development, with special experience in back-end development. His innovative mindset and relentless pursuit of excellence have been instrumental in shaping our company’s direction and success.
+                    Ali H, our Chief Technology Officer and lead developer, has a deep understanding in Tech. He is experienced in major technologies like Node.js, web, and app development, with special expertise in back-end development. Ali holds a bachelor's degree in Software Engineering from KFUEIT Pakistan and has over 4 years of experience in Node.js and blockchain development. His innovative mindset and pursuit of excellence have been key in shaping our company’s direction.
                   </p>
                 </div>
 
                 <div className="flex flex-col items-center justify-center">
-                  <div className="relative w-40 h-40 rounded-full overflow-hidden">
+                  <div className="relative w-40 h-40 rounded-full overflow-hidden" style={{
+                    borderTop: "5px solid #fff",
+                    borderRight: "3px solid #fff",
+                    borderLeft: "3px solid #fff",
+                    boxShadow: "0 0 10px 5px rgba(0, 0, 0, 0.6)",
+                  }}>
                     <Image
                       src={Coininstant}
                       alt="Coininstant"
@@ -151,18 +162,23 @@ const about = () => {
                     />
                   </div>
                   <h3 className="mt-4 text-lg font-bold text-dark dark:text-light">
-                    Coininstant
+                    Nick Thompson
                   </h3>
                   <p className="mt-2 text-base font-medium text-dark/75 dark:text-light/75">
                     CEO
                   </p>
                   <p className="mt-2 text-base font-medium text-dark/75 dark:text-light/75">
-                    With a strong background in both blockchain and software development, Coininstant is a driving force behind our technical operations. As our Chief Executive Officer and management head, he combines his development skills with strategic leadership, guiding the company towards its long-term goals. His commitment to quality and his knack for staying ahead of technological trends ensure that our solutions are always cutting-edge.
+                    Nick, our Chief Executive Officer, has a strong background in business and software development. He combines his development skills with strategic leadership to guide the company towards its long-term goals. Nick graduated from the University of Hawaii at Manoa College of Business and has extensive experience in business management. His commitment to quality and staying ahead of technological trends ensures our solutions are always cutting-edge.
                   </p>
                 </div>
 
                 <div className="flex flex-col items-center justify-center">
-                  <div className="relative w-40 h-40 rounded-full overflow-hidden">
+                  <div className="relative w-40 h-40 rounded-full overflow-hidden" style={{
+                    borderTop: "5px solid #fff",
+                    borderRight: "3px solid #fff",
+                    borderLeft: "3px solid #fff",
+                    boxShadow: "0 0 10px 5px rgba(0, 0, 0, 0.6)",
+                  }}>
                     <Image
                       src={TheGuruAsia}
                       alt="TheGuruAsia"
@@ -174,13 +190,13 @@ const about = () => {
                     />
                   </div>
                   <h3 className="mt-4 text-lg font-bold text-dark dark:text-light">
-                    TheGuruAsia
+                    Charith Athukorala
                   </h3>
                   <p className="mt-2 text-base font-medium text-dark/75 dark:text-light/75">
                     COO
                   </p>
                   <p className="mt-2 text-base font-medium text-dark/75 dark:text-light/75">
-                    Known for his strategic thinking and technical prowess, TheGuruAsia brings a wealth of knowledge in web development and software engineering. His ability to navigate complex challenges and deliver robust solutions has earned him a reputation as a guru in the industry. As our Chief Operating Officer, he oversees management, financial, and logistical aspects of our operations, ensuring that everything runs smoothly and efficiently.
+                    Charith, is our Chief Operating Officer with a wealth of knowledge in web development and software engineering. He oversees management, financial, and logistical aspects of our operations. Charith holds an MS in Information Management and a BS in Information Technology from the Sri Lanka Institute of Information Technology, and has over 14 years of experience as an IT executive. His strategic thinking and technical prowess have earned him a reputation in the industry.
                   </p>
                 </div>
               </div>

@@ -58,7 +58,7 @@ const about = () => {
                 About us
               </h2>
               <p className="font-medium">
-              We are a dynamic team of highly motivated and skilled professionals, dedicated to delivering exceptional results across a broad spectrum of technologies, from Blockchain to Web Development.
+                Blockheads LLC is a premier software development and support company specializing in cutting-edge technologies, including Blockchain and Web Development. Our team, comprised of industry experts, is dedicated to delivering high-quality, innovative solutions tailored to meet the unique needs of our clients.
               </p>
 
               <h2 className="mb-4 mt-4 text-lg font-bold uppercase text-dark/75 dark:text-light/75">
@@ -209,7 +209,7 @@ const about = () => {
                     <a href="mailto:blockheads.professionals@gmail.com" className="flex items-center  px-4 py-2 text-base font-medium text-white bg-dark rounded-lg dark:bg-light dark:text-dark">
                       Email Us
                     </a>
-                    <a href="tel:+1 (385) 393-4434" className="flex items-center  px-4 py-2 text-base font-medium text-white bg-dark rounded-lg dark:bg-light dark:text-dark">
+                    <a href="tel:+1 (313) 427-9175" className="flex items-center  px-4 py-2 text-base font-medium text-white bg-dark rounded-lg dark:bg-light dark:text-dark">
                       Call Us
                     </a>                    
                   </div>
@@ -217,8 +217,8 @@ const about = () => {
                     <a href="mailto:blockheads.professionals@gmail.com" className="flex items-center  px-4 py-2 text-base font-medium text-dark/75 dark:text-light/75">
                       blockheads.professionals@gmail.com
                     </a>
-                    <a href="tel:+1 (385) 393-4434" className="flex items-center  px-4 py-2 text-base font-medium text-dark/75 dark:text-light/75">
-                      +1 (385) 393-4434
+                    <a href="tel:+1 (313) 427-9175" className="flex items-center  px-4 py-2 text-base font-medium text-dark/75 dark:text-light/75">
+                      +1 (313) 427-9175
                     </a>
                   </div>
                 </div>

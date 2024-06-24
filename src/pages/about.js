@@ -10,7 +10,7 @@ import TransitionEffect from "@/components/TransitionEffect";
 
 // image imports
 import AliH from "../../public/images/alih.jpg";
-import TheGuruAsia from "../../public/images/theguruasia.png";
+import TheGuruAsia from "../../public/images/theguruasia.jpg";
 import Coininstant from "../../public/images/coininstant.png";
 import Blockheads from "../../public/images/main-logo.png";
 

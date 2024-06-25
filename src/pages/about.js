@@ -225,7 +225,7 @@ const about = () => {
                     <a href="mailto:blockheads.professionals@gmail.com" className="flex items-center  px-4 py-2 text-base font-medium text-white bg-dark rounded-lg dark:bg-light dark:text-dark">
                       Email Us
                     </a>
-                    <a href="tel:+1 (313) 427-9175" className="flex items-center  px-4 py-2 text-base font-medium text-white bg-dark rounded-lg dark:bg-light dark:text-dark">
+                    <a href="tel:+1 (385) 393-4434" className="flex items-center  px-4 py-2 text-base font-medium text-white bg-dark rounded-lg dark:bg-light dark:text-dark">
                       Call Us
                     </a>                    
                   </div>
@@ -233,8 +233,8 @@ const about = () => {
                     <a href="mailto:blockheads.professionals@gmail.com" className="flex items-center  px-4 py-2 text-base font-medium text-dark/75 dark:text-light/75">
                       blockheads.professionals@gmail.com
                     </a>
-                    <a href="tel:+1 (313) 427-9175" className="flex items-center  px-4 py-2 text-base font-medium text-dark/75 dark:text-light/75">
-                      +1 (313) 427-9175
+                    <a href="tel:+1 (385) 393-4434" className="flex items-center  px-4 py-2 text-base font-medium text-dark/75 dark:text-light/75">
+                      +1 (385) 393-4434
                     </a>
                   </div>
                 </div>

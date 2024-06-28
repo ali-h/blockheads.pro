@@ -228,7 +228,7 @@ const about = () => {
                     <a href="tel:+1 (808) 446-9985" className="flex items-center  px-4 py-2 text-base font-medium text-white bg-dark rounded-lg dark:bg-light dark:text-dark">
                       Call Us
                     </a>
-                    <a href="https://wa.me/18084469985" className="flex items-center  px-4 py-2 text-base font-medium text-white bg-dark rounded-lg dark:bg-light dark:text-dark">
+                    <a href="https://wa.me/18084469985" target="_blank" className="flex items-center  px-4 py-2 text-base font-medium text-white bg-dark rounded-lg dark:bg-light dark:text-dark">
                       WhatsApp
                     </a>
                   </div>
